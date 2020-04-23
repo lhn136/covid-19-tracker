@@ -1,4 +1,5 @@
 # COVID 19 Tracker
+[CLICK HERE AND CHECK OUT THE LIVE APP!](https://lhn136.github.io/covid-19-tracker/)
 
 Created a simple dashboard using react JS and APIs
 
