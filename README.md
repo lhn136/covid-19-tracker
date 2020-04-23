@@ -1,8 +1,5 @@
 # COVID 19 Tracker
 
-
-# To Do List
-
 Created a simple dashboard using react JS and APIs
 
 ## Getting Started
